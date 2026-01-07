@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Banco vetorial (Chroma)
+chroma_db/
+
+# Cache Python
+__pycache__/
+
+# Arquivos de banco
+*.sqlite3
+*.db

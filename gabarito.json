@@ -1,0 +1,22 @@
+[
+  { "question": "O que é Ransomware?", "ground_truth": "Malware que criptografa dados e exige resgate." },
+  { "question": "O que é Phishing?", "ground_truth": "Engenharia social via mensagens falsas para roubar dados." },
+  { "question": "O que é MFA?", "ground_truth": "Autenticação que exige dois ou mais fatores de verificação." },
+  { "question": "Diferença entre IDS e IPS?", "ground_truth": "IDS detecta e alerta; IPS detecta e bloqueia a ameaça." },
+  { "question": "O que é SQL Injection?", "ground_truth": "Inserção de código SQL malicioso em campos de entrada." },
+  { "question": "O que é um ataque DoS?", "ground_truth": "Negação de serviço para tornar um recurso indisponível." },
+  { "question": "O que é um ataque DDoS?", "ground_truth": "Ataque de negação de serviço distribuído usando múltiplos dispositivos." },
+  { "question": "O que é o princípio do Privilégio Mínimo?", "ground_truth": "Dar ao usuário apenas o acesso estritamente necessário." },
+  { "question": "O que é Criptografia Assimétrica?", "ground_truth": "Uso de um par de chaves: uma pública e uma privada." },
+  { "question": "O que é Criptografia Simétrica?", "ground_truth": "Uso da mesma chave para criptografar e descriptografar." },
+  { "question": "O que é um Firewall?", "ground_truth": "Dispositivo que filtra o tráfego de rede baseado em regras." },
+  { "question": "O que é Zero Trust?", "ground_truth": "Modelo de segurança que não confia em ninguém por padrão." },
+  { "question": "O que é um Cavalo de Troia (Trojan)?", "ground_truth": "Programa malicioso disfarçado de software legítimo." },
+  { "question": "O que é um ataque de Força Bruta?", "ground_truth": "Tentativa de adivinhar senhas por tentativa e erro exaustivo." },
+  { "question": "O que é Cross-Site Scripting (XSS)?", "ground_truth": "Injeção de scripts maliciosos em páginas web visualizadas por outros." },
+  { "question": "O que é uma VPN?", "ground_truth": "Rede privada virtual que cria um túnel criptografado na internet." },
+  { "question": "O que é um Honeypot?", "ground_truth": "Sistema armadilha projetado para atrair e estudar atacantes." },
+  { "question": "O que é um exploit de Dia Zero (0-day)?", "ground_truth": "Ataque que explora vulnerabilidade desconhecida pelo fabricante." },
+  { "question": "O que é Engenharia Social?", "ground_truth": "Manipulação psicológica de pessoas para obter dados sigilosos." },
+  { "question": "O que é o OWASP?", "ground_truth": "Fundação focada na segurança de software e aplicações web." }
+]
