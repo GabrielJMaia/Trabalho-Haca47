@@ -1,4 +1,4 @@
-# Nome do Projeto: Treinando um Modelo SLM em Cibersegurança
+# Projeto:    Treinando um Modelo SLM em Cibersegurança
 
 # Descrição:  Este projeto tem como objetivo analisar e comparar o desempenho do modelo phi3:mini em diferentes cenários
               de uso, aplicando técnicas como Prompt Engineering e Retrieval-Augmented Generation (RAG).
