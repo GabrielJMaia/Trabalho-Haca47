@@ -48,4 +48,7 @@
 - Para Avaliar as respostas: python avaliador.py
 - Mude o modo dependendo do uso(Avaliador, Main): Puro, prompt, rag, rag_prompt
 
-# Autores: Davi Sampaio(https://github.com/DaviSampaioSilva), Gabriel Maia(https://github.com/GabrielJMaia), Luiz Otávio
+# Autores: 
+            Davi Sampaio(https://github.com/DaviSampaioSilva), 
+            Gabriel Maia(https://github.com/GabrielJMaia), 
+            Luiz Otávio
