@@ -25,7 +25,7 @@
 - Ollama
 - ChromaDB
 - Pandas
-- Modelos LLM (Phi-3 Mini)
+- Modelos SLM (Phi-3 Mini)
 - Embeddings (nomic-embed-text)
 - Ragas
 
